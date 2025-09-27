@@ -18,7 +18,7 @@ Gradient Descent: Optimization algorithm used to minimize the loss function by u
 
 Steps To Run The Project:
 step1: Dounload The Dataset -> https://github.com/mohanmandala/Logistic_Regression_ML_Model/blob/main/diabetes_dataset.csv
-step2: Open The Logistic_Regression.ipynd File, Copy Entire Code From The File 
+step2: Open The Logistic_Regression.ipynd File, Copy Entire Code From The File -> https://github.com/mohanmandala/Logistic_Regression_ML_Model/blob/main/Logistic_Regression.ipynb
 step3: Paste Code in any Python Environment ( NOTE: libraries are must install )
 step4: Adjgust Importing Dataset Path to code.
 step5: Run The Code.
