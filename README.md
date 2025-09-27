@@ -8,7 +8,7 @@ This repository demonstrates the implementation of a logistic regression model f
 
 Programming Language: Python
 Libraries: NumPy, Matplotlib (for visualization)
-Dataset:
+Dataset: https://github.com/mohanmandala/Logistic_Regression_ML_Model/blob/main/diabetes_dataset.csv
 
 🧠 Key Concepts
 
@@ -17,8 +17,8 @@ Binary Cross-Entropy Loss: Measures the performance of a classification model wh
 Gradient Descent: Optimization algorithm used to minimize the loss function by updating model parameters iteratively.
 
 Steps To Run The Project:
-step1: Dounload The Dataset -> 
-step2: Open The Logistic_Regression.ipynd File, Copy Entire Code From The File.
+step1: Dounload The Dataset -> https://github.com/mohanmandala/Logistic_Regression_ML_Model/blob/main/diabetes_dataset.csv
+step2: Open The Logistic_Regression.ipynd File, Copy Entire Code From The File 
 step3: Paste Code in any Python Environment ( NOTE: libraries are must install )
 step4: Adjgust Importing Dataset Path to code.
 step5: Run The Code.
